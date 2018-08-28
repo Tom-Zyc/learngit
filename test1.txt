@@ -1,2 +1,4 @@
 Git is a distributed version control system.
 Git is free software system under the GPL.
+
+This is the test about the relationship between master and origin.
